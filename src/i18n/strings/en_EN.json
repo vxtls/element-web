@@ -1023,6 +1023,8 @@
         "verify_toast_description": "Other users may not trust it",
         "verify_toast_title": "Verify this session"
     },
+    "encryption.verified_identity_changed": "%(displayName)s's (<b>%(userId)s</b>) verified identity has changed. <a>Learn more</a>",
+    "encryption.verified_identity_changed_no_displayname": "<b>%(userId)s</b>'s verified identity has changed. <a>Learn more</a>",
     "error": {
         "admin_contact": "Please <a>contact your service administrator</a> to continue using this service.",
         "admin_contact_short": "Contact your <a>server admin</a>.",
